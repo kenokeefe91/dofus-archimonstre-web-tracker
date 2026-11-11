@@ -1,6 +1,6 @@
 # Dofus — Tracker d'archimonstres (version web)
 
-Page web autonome pour suivre les archimonstres capturés sur Dofus. Les données de départ viennent de la base SQLite du projet Godot (`archimonstre.db.sqlite`) et sont exportées dans `archimonstre.json` ; l'état de tes captures est stocké dans le `localStorage` du navigateur (clé `archimonstre_tracker_v1`).
+Page web autonome pour suivre les archimonstres capturés sur Dofus. Les données (284 archimonstres, 111 zones, 4 pierres d'âme) sont embarquées dans `archimonstre.json` ; l'état de tes captures est stocké dans le `localStorage` du navigateur (clé `archimonstre_tracker_v1`).
 
 Repo : https://github.com/kenokeefe91/dofus-archimonstre-web-tracker
 Page en ligne (GitHub Pages) : https://kenokeefe91.github.io/dofus-archimonstre-web-tracker/
@@ -25,9 +25,7 @@ puis ouvrir http://localhost:8000 dans un navigateur.
 | `index.html` | structure de la page |
 | `style.css` | styles |
 | `app.js` | logique : filtres, tri, rendu, persistance localStorage |
-| `archimonstre.json` | données exportées de la SQLite (284 archimonstres, 111 zones, 4 pierres d'âme) |
-| `archimonstre.db.sqlite` | base SQLite d'origine (projet Godot) |
-| `liste_monstre.csv` | export CSV d'origine |
+| `archimonstre.json` | données : 284 archimonstres, 111 zones, 4 pierres d'âme |
 
 ## Fonctionnalités
 
@@ -41,25 +39,6 @@ puis ouvrir http://localhost:8000 dans un navigateur.
 - Compteur et barre de progression (x / 284)
 - Lien vers le repo GitHub dans l'en-tête
 
-## Régénérer `archimonstre.json` depuis la base SQLite
+## Modifier les données
 
-```bash
-python3 - <<'EOF'
-import sqlite3, json
-con = sqlite3.connect('archimonstre.db.sqlite')
-con.row_factory = sqlite3.Row
-cur = con.cursor()
-archis = [dict(r) for r in cur.execute(
-    'SELECT a.*, p.nom AS pierre_dame FROM archimonstre a JOIN pierre_dame p ON p.id = a.pierre_dame_id ORDER BY a.nom')]
-zones_ids = {}
-for aid, zid in cur.execute('SELECT archimonstre_id, zone_id FROM archimonstre_zone'):
-    zones_ids.setdefault(aid, []).append(zid)
-for a in archis:
-    a['zones_ids'] = zones_ids.get(a['id'], [])
-    a['capture'] = bool(a['capture'])
-zones = [dict(r) for r in cur.execute('SELECT id, nom, travel FROM zone_de_monstre ORDER BY nom')]
-pierres = [dict(r) for r in cur.execute('SELECT id, nom, lvl_max FROM pierre_dame ORDER BY id')]
-json.dump({'archimonstres': archis, 'zones': zones, 'pierres': pierres},
-          open('archimonstre.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-EOF
-```
+Éditer directement `archimonstre.json` (structure : `archimonstres` avec `id`, `nom`, `monstre`, `etapes`, `lvl_min`, `lvl_max`, `pierre_dame_id`, `pierre_dame`, `zones_ids` ; plus les tableaux `zones` et `pierres`), puis recharger la page.
