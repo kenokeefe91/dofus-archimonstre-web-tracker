@@ -47,7 +47,7 @@
     padding: 12px 20px;
     background: var(--panneau);
     position: sticky;
-    top: 86px;
+    top: 108px;
     border-bottom: 1px solid #3a3f52;
   }
   #filters input[type="search"] { flex: 1 1 220px; }
@@ -60,6 +60,7 @@
   }
   #filters button { cursor: pointer; border-color: var(--accent); color: var(--accent); }
   #compteur { font-size: 12px; opacity: 0.7; align-self: center; }
+  #pierres { font-size: 13px; margin-top: 6px; opacity: 0.85; }
   table {
     width: 100%;
     border-collapse: collapse;
@@ -73,7 +74,7 @@
   }
   th {
     position: sticky;
-    top: 140px;
+    top: 162px;
     background: var(--panneau);
     color: var(--accent);
   }

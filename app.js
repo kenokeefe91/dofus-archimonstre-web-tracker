@@ -33,6 +33,14 @@ function saveState(state) {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
 }
 
+function pierresRequises(seed) {
+  const totaux = {};
+  seed.archimonstres.forEach(function (a) {
+    totaux[a.pierre_dame_id] = (totaux[a.pierre_dame_id] || 0) + a.etapes;
+  });
+  return totaux;
+}
+
 async function chargerSeed() {
   const reponse = await fetch('archimonstre.json');
   if (!reponse.ok) {
@@ -58,6 +66,13 @@ if (typeof document !== 'undefined') {
     const pct = Math.round(faits / total * 100);
     el('stats').textContent = faits + ' / ' + total + ' archimonstres capturés (' + pct + ' %)';
     el('progress-bar').style.width = pct + '%';
+  }
+
+  function majPierres() {
+    const totaux = pierresRequises(SEED);
+    el('pierres').textContent = 'Pierres requises : ' + SEED.pierres.map(function (p) {
+      return p.nom + ' × ' + (totaux[p.id] || 0);
+    }).join(', ');
   }
 
   function remplirSelects() {
@@ -173,6 +188,7 @@ if (typeof document !== 'undefined') {
     });
     render();
     majStats();
+    majPierres();
   }
 
   init();
