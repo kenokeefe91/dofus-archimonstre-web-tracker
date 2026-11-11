@@ -2,8 +2,7 @@
 
 Page web autonome pour suivre les archimonstres capturés sur Dofus. Les données (284 archimonstres, 111 zones, 4 pierres d'âme) sont embarquées dans `archimonstre.json` ; l'état de tes captures est stocké dans le `localStorage` du navigateur (clé `archimonstre_tracker_v1`).
 
-Repo : https://github.com/kenokeefe91/dofus-archimonstre-web-tracker
-Page en ligne (GitHub Pages) : https://kenokeefe91.github.io/dofus-archimonstre-web-tracker/
+https://kenokeefe91.github.io/dofus-archimonstre-web-tracker/
 
 ## Lancer la page
 
