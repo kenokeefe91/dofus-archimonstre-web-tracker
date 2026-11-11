@@ -7,9 +7,9 @@ Page en ligne (GitHub Pages) : https://kenokeefe91.github.io/dofus-archimonstre-
 
 ## Lancer la page
 
-En ligne : https://kenokeefe91.github.io/dofus-archimonstre-web-tracker/ (rien à installer).
+- En ligne : https://kenokeefe91.github.io/dofus-archimonstre-web-tracker/ (rien à installer).
 
-En local : les données sont chargées via `fetch('archimonstre.json')`, donc ouvrir `index.html` directement en `file://` est bloqué par le navigateur. Il faut servir le dossier en local :
+- En local : les données sont chargées via `fetch('archimonstre.json')`, donc ouvrir `index.html` directement en `file://` est bloqué par le navigateur. Il faut servir le dossier en local :
 
 ```bash
 cd archimonstre-gpage-tracker
