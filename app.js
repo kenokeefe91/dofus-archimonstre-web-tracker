@@ -33,12 +33,13 @@ function saveState(state) {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
 }
 
-function pierresRequises(seed) {
-  const totaux = {};
+function pierresRequises(seed, state) {
+  const pierres = {};
   seed.archimonstres.forEach(function (a) {
-    totaux[a.pierre_dame_id] = (totaux[a.pierre_dame_id] || 0) + a.etapes;
+    if (state.captures[a.id].capture) return;
+    pierres[a.pierre_dame_id] = (pierres[a.pierre_dame_id] || 0) + 1;
   });
-  return totaux;
+  return pierres;
 }
 
 async function chargerSeed() {
@@ -69,9 +70,9 @@ if (typeof document !== 'undefined') {
   }
 
   function majPierres() {
-    const totaux = pierresRequises(SEED);
-    el('pierres').textContent = 'Pierres requises : ' + SEED.pierres.map(function (p) {
-      return p.nom + ' × ' + (totaux[p.id] || 0);
+    const r = pierresRequises(SEED, state);
+    el('pierres').textContent = 'Pierres restantes : ' + SEED.pierres.map(function (p) {
+      return p.nom + ' × ' + (r[p.id] || 0);
     }).join(', ');
   }
 
@@ -139,6 +140,7 @@ if (typeof document !== 'undefined') {
       state.captures[a.id].capture = check.checked;
       saveState(state);
       majStats();
+      majPierres();
       render();
     });
     tdCheck.appendChild(check);
@@ -185,6 +187,7 @@ if (typeof document !== 'undefined') {
       saveState(state);
       render();
       majStats();
+      majPierres();
     });
     render();
     majStats();
