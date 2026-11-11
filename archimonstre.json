@@ -1,0 +1,5027 @@
+{
+ "archimonstres": [
+  {
+   "id": 120,
+   "nom": "Aboudbra le Porteur",
+   "monstre": "Aboub",
+   "etapes": 26,
+   "lvl_min": 35,
+   "lvl_max": 47,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    108,
+    68
+   ]
+  },
+  {
+   "id": 100,
+   "nom": "Abrakadnuzar",
+   "monstre": "Abrakne",
+   "etapes": 25,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    72
+   ]
+  },
+  {
+   "id": 220,
+   "nom": "Abrakanette l'Encapsulé",
+   "monstre": "Abraknyde sombre",
+   "etapes": 31,
+   "lvl_min": 78,
+   "lvl_max": 90,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    44
+   ]
+  },
+  {
+   "id": 140,
+   "nom": "Abrakildas le Vénérable",
+   "monstre": "Abraknyde Vénérable",
+   "etapes": 27,
+   "lvl_min": 74,
+   "lvl_max": 86,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    44
+   ]
+  },
+  {
+   "id": 239,
+   "nom": "Abrakine le Sombre",
+   "monstre": "Abrakleur Sombre",
+   "etapes": 32,
+   "lvl_min": 131,
+   "lvl_max": 143,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    54
+   ]
+  },
+  {
+   "id": 221,
+   "nom": "Abraklette le Fondant",
+   "monstre": "Abrakne Sombre",
+   "etapes": 31,
+   "lvl_min": 82,
+   "lvl_max": 90,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    44
+   ]
+  },
+  {
+   "id": 80,
+   "nom": "Abrakroc l'Edenté",
+   "monstre": "Abraknyde",
+   "etapes": 24,
+   "lvl_min": 38,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    72
+   ]
+  },
+  {
+   "id": 259,
+   "nom": "Abrinos le Clair",
+   "monstre": "Abrakleur Clair",
+   "etapes": 33,
+   "lvl_min": 152,
+   "lvl_max": 160,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 5,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    103
+   ]
+  },
+  {
+   "id": 160,
+   "nom": "Akaka le Souillé",
+   "monstre": "Akakwa",
+   "etapes": 28,
+   "lvl_min": 122,
+   "lvl_max": 130,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    2
+   ]
+  },
+  {
+   "id": 200,
+   "nom": "Alhoui le Répondeur",
+   "monstre": "Alhyène",
+   "etapes": 30,
+   "lvl_min": 152,
+   "lvl_max": 160,
+   "pierre_dame_id": 4,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    32,
+    110
+   ]
+  },
+  {
+   "id": 121,
+   "nom": "Ameur la Laide",
+   "monstre": "Amlub",
+   "etapes": 26,
+   "lvl_min": 35,
+   "lvl_max": 47,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    5,
+    108
+   ]
+  },
+  {
+   "id": 122,
+   "nom": "Arabord la Cruche",
+   "monstre": "Arakne Majeure",
+   "etapes": 26,
+   "lvl_min": 40,
+   "lvl_max": 48,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    43,
+    72
+   ]
+  },
+  {
+   "id": 1,
+   "nom": "Arachitik la Souffreteuse",
+   "monstre": "Arakne Malade",
+   "etapes": 20,
+   "lvl_min": 11,
+   "lvl_max": 15,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    92
+   ]
+  },
+  {
+   "id": 2,
+   "nom": "Araknay la Galopante",
+   "monstre": "Arakne Agressive",
+   "etapes": 20,
+   "lvl_min": 22,
+   "lvl_max": 30,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    35
+   ]
+  },
+  {
+   "id": 3,
+   "nom": "Arakule la Revancharde",
+   "monstre": "Arakne",
+   "etapes": 20,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    43,
+    10
+   ]
+  },
+  {
+   "id": 279,
+   "nom": "Bakaglace le Congelé",
+   "monstre": "Bakazako",
+   "etapes": 34,
+   "lvl_min": 162,
+   "lvl_max": 170,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    69
+   ]
+  },
+  {
+   "id": 60,
+   "nom": "Bambouské le Camouflé",
+   "monstre": "Bambouto",
+   "etapes": 23,
+   "lvl_min": 102,
+   "lvl_max": 110,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    82
+   ]
+  },
+  {
+   "id": 21,
+   "nom": "Bandapar l'Exclu",
+   "monstre": "Bandit Manchot",
+   "etapes": 21,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    73
+   ]
+  },
+  {
+   "id": 22,
+   "nom": "Bandson le Tonitruant",
+   "monstre": "Bandit du Clan des Roublards",
+   "etapes": 21,
+   "lvl_min": 37,
+   "lvl_max": 49,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    98
+   ]
+  },
+  {
+   "id": 61,
+   "nom": "Barchwork le Multicolore",
+   "monstre": "Bwork Archer",
+   "etapes": 23,
+   "lvl_min": 37,
+   "lvl_max": 49,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    43,
+    11,
+    107,
+    70
+   ]
+  },
+  {
+   "id": 180,
+   "nom": "Barebourd le Comte",
+   "monstre": "Barbroussa",
+   "etapes": 29,
+   "lvl_min": 58,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    4
+   ]
+  },
+  {
+   "id": 161,
+   "nom": "Bebetto l'Intellectuel",
+   "monstre": "Betto",
+   "etapes": 28,
+   "lvl_min": 122,
+   "lvl_max": 130,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    2
+   ]
+  },
+  {
+   "id": 41,
+   "nom": "Bi le Partageur",
+   "monstre": "Biblop Griotte",
+   "etapes": 22,
+   "lvl_min": 24,
+   "lvl_max": 28,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    61
+   ]
+  },
+  {
+   "id": 260,
+   "nom": "Bigbadaboum l'Élémentaire",
+   "monstre": "Boumbardier",
+   "etapes": 33,
+   "lvl_min": 132,
+   "lvl_max": 140,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    37
+   ]
+  },
+  {
+   "id": 42,
+   "nom": "Bilvoezé le Bonimenteur",
+   "monstre": "Biblop Coco",
+   "etapes": 22,
+   "lvl_min": 24,
+   "lvl_max": 28,
+   "pierre_dame_id": 1,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    61
+   ]
+  },
+  {
+   "id": 43,
+   "nom": "Bistou le Quêteur",
+   "monstre": "Biblop Indigo",
+   "etapes": 22,
+   "lvl_min": 24,
+   "lvl_max": 28,
+   "pierre_dame_id": 1,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    61
+   ]
+  },
+  {
+   "id": 44,
+   "nom": "Bistou le Rieur",
+   "monstre": "Biblop Reinette",
+   "etapes": 22,
+   "lvl_min": 24,
+   "lvl_max": 28,
+   "pierre_dame_id": 1,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    61
+   ]
+  },
+  {
+   "id": 222,
+   "nom": "Bitoven le Musicien",
+   "monstre": "Bitouf Sombre",
+   "etapes": 31,
+   "lvl_min": 130,
+   "lvl_max": 142,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    54
+   ]
+  },
+  {
+   "id": 101,
+   "nom": "Blof l'Apathique",
+   "monstre": "Blop Reinette",
+   "etapes": 25,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    61
+   ]
+  },
+  {
+   "id": 102,
+   "nom": "Bloporte le Veule",
+   "monstre": "Blop Indigo",
+   "etapes": 25,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    61
+   ]
+  },
+  {
+   "id": 103,
+   "nom": "Blordur l'Infect",
+   "monstre": "Blop Griotte",
+   "etapes": 25,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    61
+   ]
+  },
+  {
+   "id": 104,
+   "nom": "Blorie l'Assourdissante",
+   "monstre": "Blop Coco",
+   "etapes": 25,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    61
+   ]
+  },
+  {
+   "id": 201,
+   "nom": "Bonpake le Chavireur",
+   "monstre": "Ishigro Pake",
+   "etapes": 30,
+   "lvl_min": 122,
+   "lvl_max": 130,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    97
+   ]
+  },
+  {
+   "id": 105,
+   "nom": "Boombata le Garde",
+   "monstre": "Boomba",
+   "etapes": 25,
+   "lvl_min": 82,
+   "lvl_max": 90,
+   "pierre_dame_id": 2,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    18
+   ]
+  },
+  {
+   "id": 45,
+   "nom": "Boostif l'Affamé",
+   "monstre": "Boo",
+   "etapes": 22,
+   "lvl_min": 25,
+   "lvl_max": 29,
+   "pierre_dame_id": 1,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    64,
+    63,
+    27,
+    65
+   ]
+  },
+  {
+   "id": 4,
+   "nom": "Boudalf le Blanc",
+   "monstre": "Boufton Blanc",
+   "etapes": 20,
+   "lvl_min": 22,
+   "lvl_max": 30,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    28,
+    96
+   ]
+  },
+  {
+   "id": 23,
+   "nom": "Boudur le Raide",
+   "monstre": "Boulanger sombre",
+   "etapes": 21,
+   "lvl_min": 35,
+   "lvl_max": 47,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    98,
+    73
+   ]
+  },
+  {
+   "id": 24,
+   "nom": "Boufdégou le Refoulant",
+   "monstre": "Bouftou",
+   "etapes": 21,
+   "lvl_min": 22,
+   "lvl_max": 30,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    28,
+    96
+   ]
+  },
+  {
+   "id": 46,
+   "nom": "Bouflet le Puéril",
+   "monstre": "Chef de guerre bouftou",
+   "etapes": 22,
+   "lvl_min": 22,
+   "lvl_max": 30,
+   "pierre_dame_id": 1,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    28,
+    96
+   ]
+  },
+  {
+   "id": 5,
+   "nom": "Boulgourvil le Lointain",
+   "monstre": "Boufton Noir",
+   "etapes": 20,
+   "lvl_min": 22,
+   "lvl_max": 30,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    28,
+    96
+   ]
+  },
+  {
+   "id": 240,
+   "nom": "Bouliver le Géant",
+   "monstre": "Bourbassingue",
+   "etapes": 32,
+   "lvl_min": 95,
+   "lvl_max": 107,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    102,
+    101
+   ]
+  },
+  {
+   "id": 202,
+   "nom": "Bourde le Maladroit",
+   "monstre": "Bourdard",
+   "etapes": 30,
+   "lvl_min": 51,
+   "lvl_max": 59,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    17
+   ]
+  },
+  {
+   "id": 223,
+   "nom": "Brouste l'Humiliant",
+   "monstre": "Brouture",
+   "etapes": 31,
+   "lvl_min": 127,
+   "lvl_max": 139,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    54
+   ]
+  },
+  {
+   "id": 106,
+   "nom": "Bulsavon le Gonflé",
+   "monstre": "Bulbuisson",
+   "etapes": 25,
+   "lvl_min": 102,
+   "lvl_max": 110,
+   "pierre_dame_id": 3,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    82
+   ]
+  },
+  {
+   "id": 81,
+   "nom": "Bworkasse le Dégoûtant",
+   "monstre": "Bwork",
+   "etapes": 24,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    43,
+    11,
+    107,
+    70
+   ]
+  },
+  {
+   "id": 62,
+   "nom": "Bwormage le Respectueux",
+   "monstre": "Bwork Mage",
+   "etapes": 23,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    43,
+    11,
+    107,
+    70
+   ]
+  },
+  {
+   "id": 181,
+   "nom": "Caboume l'Artilleur",
+   "monstre": "Canondorf",
+   "etapes": 29,
+   "lvl_min": 82,
+   "lvl_max": 90,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    18
+   ]
+  },
+  {
+   "id": 123,
+   "nom": "Cavordemal le Sorcier",
+   "monstre": "Cavalier Porkass",
+   "etapes": 26,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    78
+   ]
+  },
+  {
+   "id": 82,
+   "nom": "Chafalfer l'Optimiste",
+   "monstre": "Chafer Invisible",
+   "etapes": 24,
+   "lvl_min": 25,
+   "lvl_max": 37,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    43,
+    19,
+    6
+   ]
+  },
+  {
+   "id": 107,
+   "nom": "Chafemal le Bagarreur",
+   "monstre": "Chafer",
+   "etapes": 25,
+   "lvl_min": 32,
+   "lvl_max": 40,
+   "pierre_dame_id": 1,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    43,
+    19,
+    6
+   ]
+  },
+  {
+   "id": 108,
+   "nom": "Chaffoin le Sournois",
+   "monstre": "Chafer Fantassin",
+   "etapes": 25,
+   "lvl_min": 33,
+   "lvl_max": 41,
+   "pierre_dame_id": 1,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    6,
+    19
+   ]
+  },
+  {
+   "id": 124,
+   "nom": "Chafmarcel le Fêtard",
+   "monstre": "Chafer Archer",
+   "etapes": 26,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    43,
+    22,
+    23,
+    6
+   ]
+  },
+  {
+   "id": 141,
+   "nom": "Chafrit le Barbare",
+   "monstre": "Chafer d'Elite",
+   "etapes": 27,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    23,
+    22
+   ]
+  },
+  {
+   "id": 125,
+   "nom": "Chalan le Commerçant",
+   "monstre": "Chafer Lancier",
+   "etapes": 26,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    6,
+    22,
+    23
+   ]
+  },
+  {
+   "id": 6,
+   "nom": "Chamchie le Difficile",
+   "monstre": "Champ Champ",
+   "etapes": 20,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    28,
+    10
+   ]
+  },
+  {
+   "id": 83,
+   "nom": "Chamdblé le Cultivé",
+   "monstre": "Champa Rouge",
+   "etapes": 24,
+   "lvl_min": 35,
+   "lvl_max": 43,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    26
+   ]
+  },
+  {
+   "id": 84,
+   "nom": "Chamflay le Ballonné",
+   "monstre": "Champa Marron",
+   "etapes": 24,
+   "lvl_min": 35,
+   "lvl_max": 43,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    26
+   ]
+  },
+  {
+   "id": 261,
+   "nom": "Chamiléro le Malchanceux",
+   "monstre": "Champaknyde",
+   "etapes": 33,
+   "lvl_min": 172,
+   "lvl_max": 180,
+   "pierre_dame_id": 4,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    34
+   ]
+  },
+  {
+   "id": 142,
+   "nom": "Chamitant le Dilettante",
+   "monstre": "Ramane d'Egoutant",
+   "etapes": 27,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    94
+   ]
+  },
+  {
+   "id": 262,
+   "nom": "Chamoute le Duveteux",
+   "monstre": "Champodonte",
+   "etapes": 33,
+   "lvl_min": 172,
+   "lvl_max": 180,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 3,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    14
+   ]
+  },
+  {
+   "id": 47,
+   "nom": "Champayr le Disjoncté",
+   "monstre": "Champa Vert",
+   "etapes": 22,
+   "lvl_min": 35,
+   "lvl_max": 43,
+   "pierre_dame_id": 1,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    26
+   ]
+  },
+  {
+   "id": 85,
+   "nom": "Champayt l'Odorant",
+   "monstre": "Champa Bleu",
+   "etapes": 24,
+   "lvl_min": 35,
+   "lvl_max": 43,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    26
+   ]
+  },
+  {
+   "id": 263,
+   "nom": "Champmé le Méchant",
+   "monstre": "Champmane",
+   "etapes": 33,
+   "lvl_min": 172,
+   "lvl_max": 180,
+   "pierre_dame_id": 4,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    14,
+    34
+   ]
+  },
+  {
+   "id": 264,
+   "nom": "Champolyon le Polyglotte",
+   "monstre": "Champ à Gnons",
+   "etapes": 33,
+   "lvl_min": 172,
+   "lvl_max": 180,
+   "pierre_dame_id": 4,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    14,
+    34
+   ]
+  },
+  {
+   "id": 265,
+   "nom": "Champoul l'Illuminé",
+   "monstre": "Champbis",
+   "etapes": 33,
+   "lvl_min": 172,
+   "lvl_max": 180,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 2,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    14
+   ]
+  },
+  {
+   "id": 48,
+   "nom": "Chevaustine le Reconstruit",
+   "monstre": "Chevaucheur de Karne",
+   "etapes": 22,
+   "lvl_min": 32,
+   "lvl_max": 40,
+   "pierre_dame_id": 1,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    70,
+    11,
+    12
+   ]
+  },
+  {
+   "id": 182,
+   "nom": "Chiendanlémin l'Illusionniste",
+   "monstre": "Chiendent",
+   "etapes": 29,
+   "lvl_min": 125,
+   "lvl_max": 137,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    54
+   ]
+  },
+  {
+   "id": 49,
+   "nom": "Chonstip la Passagère",
+   "monstre": "Cochon de Lait",
+   "etapes": 22,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    78
+   ]
+  },
+  {
+   "id": 126,
+   "nom": "Codenlgaz le Problème",
+   "monstre": "Codem",
+   "etapes": 26,
+   "lvl_min": 35,
+   "lvl_max": 47,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    5,
+    108
+   ]
+  },
+  {
+   "id": 162,
+   "nom": "Corboyard l'Enigmatique",
+   "monstre": "Corailleur",
+   "etapes": 28,
+   "lvl_min": 38,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    76
+   ]
+  },
+  {
+   "id": 63,
+   "nom": "Corpat le Vampire",
+   "monstre": "Corbac",
+   "etapes": 23,
+   "lvl_min": 102,
+   "lvl_max": 110,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    74
+   ]
+  },
+  {
+   "id": 266,
+   "nom": "Crachefouxtre le Surpris",
+   "monstre": "Crachefoux",
+   "etapes": 33,
+   "lvl_min": 132,
+   "lvl_max": 140,
+   "pierre_dame_id": 3,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    37
+   ]
+  },
+  {
+   "id": 86,
+   "nom": "Crakmitaine le Faucheur",
+   "monstre": "Craqueleur",
+   "etapes": 24,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    71,
+    70
+   ]
+  },
+  {
+   "id": 143,
+   "nom": "Cramikaz le Suicidaire",
+   "monstre": "Craqueleur des Plaines",
+   "etapes": 27,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    81
+   ]
+  },
+  {
+   "id": 144,
+   "nom": "Craquetou le Fissuré",
+   "monstre": "Craqueboule poli",
+   "etapes": 27,
+   "lvl_min": 93,
+   "lvl_max": 105,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    80
+   ]
+  },
+  {
+   "id": 87,
+   "nom": "Craquetuss le Piquant",
+   "monstre": "Craqueboule",
+   "etapes": 24,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    71,
+    70
+   ]
+  },
+  {
+   "id": 7,
+   "nom": "Craraboss le Féérique",
+   "monstre": "Crabe",
+   "etapes": 20,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    87
+   ]
+  },
+  {
+   "id": 203,
+   "nom": "Crathdogue le Cruel",
+   "monstre": "Craqueleur Poli",
+   "etapes": 30,
+   "lvl_min": 96,
+   "lvl_max": 108,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    80
+   ]
+  },
+  {
+   "id": 64,
+   "nom": "Crognan le Barbare",
+   "monstre": "Crowneille",
+   "etapes": 23,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    33
+   ]
+  },
+  {
+   "id": 204,
+   "nom": "Crok le Beau",
+   "monstre": "Chef Crocodaille",
+   "etapes": 30,
+   "lvl_min": 61,
+   "lvl_max": 77,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    64,
+    63,
+    65
+   ]
+  },
+  {
+   "id": 109,
+   "nom": "Crolnareff l'Exilé",
+   "monstre": "Crocodaille",
+   "etapes": 25,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    64,
+    63,
+    65
+   ]
+  },
+  {
+   "id": 50,
+   "nom": "Cromikay le Néophyte",
+   "monstre": "Croc gland",
+   "etapes": 22,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    33
+   ]
+  },
+  {
+   "id": 110,
+   "nom": "Cruskof le Rustre",
+   "monstre": "Crustorail Morito",
+   "etapes": 25,
+   "lvl_min": 36,
+   "lvl_max": 48,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    76
+   ]
+  },
+  {
+   "id": 127,
+   "nom": "Crusmeyer le Pervers",
+   "monstre": "Crustorail Passaoh",
+   "etapes": 26,
+   "lvl_min": 36,
+   "lvl_max": 48,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    76
+   ]
+  },
+  {
+   "id": 111,
+   "nom": "Crustensyl le Pragmatique",
+   "monstre": "Crustorail Malibout",
+   "etapes": 25,
+   "lvl_min": 36,
+   "lvl_max": 48,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    76
+   ]
+  },
+  {
+   "id": 112,
+   "nom": "Crustterus l'Organique",
+   "monstre": "Crustorail Kouraçao",
+   "etapes": 25,
+   "lvl_min": 36,
+   "lvl_max": 48,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    76
+   ]
+  },
+  {
+   "id": 224,
+   "nom": "Diskord le Belliqueux",
+   "monstre": "Disciple Zoth",
+   "etapes": 31,
+   "lvl_min": 114,
+   "lvl_max": 126,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    106,
+    111
+   ]
+  },
+  {
+   "id": 145,
+   "nom": "Doktopuss le Maléfique",
+   "monstre": "Dok Alako",
+   "etapes": 27,
+   "lvl_min": 70,
+   "lvl_max": 78,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    62,
+    41,
+    13,
+    3
+   ]
+  },
+  {
+   "id": 267,
+   "nom": "Don Kizoth l'Obstiné",
+   "monstre": "Maître Zoth",
+   "etapes": 33,
+   "lvl_min": 126,
+   "lvl_max": 138,
+   "pierre_dame_id": 3,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    106,
+    111
+   ]
+  },
+  {
+   "id": 225,
+   "nom": "Dragdikal le Décisif",
+   "monstre": "Dragoeuf Guerrier",
+   "etapes": 31,
+   "lvl_min": 112,
+   "lvl_max": 120,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    91
+   ]
+  },
+  {
+   "id": 241,
+   "nom": "Drageaufol la Joyeuse",
+   "monstre": "Dragoss de Saphir Eveillé",
+   "etapes": 32,
+   "lvl_min": 92,
+   "lvl_max": 100,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    109,
+    93
+   ]
+  },
+  {
+   "id": 163,
+   "nom": "Dragioli le Succulent",
+   "monstre": "Dragacé",
+   "etapes": 28,
+   "lvl_min": 112,
+   "lvl_max": 120,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    91
+   ]
+  },
+  {
+   "id": 183,
+   "nom": "Dragkouine la Déguisée",
+   "monstre": "Dragoeuf Doré",
+   "etapes": 29,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    85
+   ]
+  },
+  {
+   "id": 88,
+   "nom": "Draglida la Disparue",
+   "monstre": "Dragodinde Amande Sauvage",
+   "etapes": 24,
+   "lvl_min": 55,
+   "lvl_max": 67,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    99
+   ]
+  },
+  {
+   "id": 242,
+   "nom": "Dragminster le Magicien",
+   "monstre": "Dragoss Blanc Eveillé",
+   "etapes": 32,
+   "lvl_min": 92,
+   "lvl_max": 100,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    109,
+    93
+   ]
+  },
+  {
+   "id": 184,
+   "nom": "Dragmoclaiss le Fataliste",
+   "monstre": "Dragoeuf de Saphir",
+   "etapes": 29,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    85
+   ]
+  },
+  {
+   "id": 185,
+   "nom": "Dragnostik le Sceptique",
+   "monstre": "Dragoeuf Noir",
+   "etapes": 29,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    85
+   ]
+  },
+  {
+   "id": 113,
+   "nom": "Dragnoute l'Irascible",
+   "monstre": "Dragodinde Rousse Sauvage",
+   "etapes": 25,
+   "lvl_min": 60,
+   "lvl_max": 72,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    99
+   ]
+  },
+  {
+   "id": 226,
+   "nom": "Dragobert le Monarque",
+   "monstre": "Draguaindrop",
+   "etapes": 31,
+   "lvl_min": 112,
+   "lvl_max": 120,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    91
+   ]
+  },
+  {
+   "id": 205,
+   "nom": "Dragonienne l'Econome",
+   "monstre": "Dragueuse",
+   "etapes": 30,
+   "lvl_min": 112,
+   "lvl_max": 120,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    91
+   ]
+  },
+  {
+   "id": 186,
+   "nom": "Dragstayr le Fonceur",
+   "monstre": "Dragoeuf Blanc",
+   "etapes": 29,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    85
+   ]
+  },
+  {
+   "id": 243,
+   "nom": "Dragtarus le Bellâtre",
+   "monstre": "Dragoss Doré Eveillé",
+   "etapes": 32,
+   "lvl_min": 92,
+   "lvl_max": 100,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    109,
+    93
+   ]
+  },
+  {
+   "id": 244,
+   "nom": "Drakolage le Tentateur",
+   "monstre": "Drakoalak",
+   "etapes": 32,
+   "lvl_min": 90,
+   "lvl_max": 98,
+   "pierre_dame_id": 2,
+   "capture": true,
+   "nombre_possede": 4,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    13
+   ]
+  },
+  {
+   "id": 245,
+   "nom": "Draquetteur le Voleur",
+   "monstre": "Dragoss Noir Eveillé",
+   "etapes": 32,
+   "lvl_min": 92,
+   "lvl_max": 100,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    109,
+    93
+   ]
+  },
+  {
+   "id": 246,
+   "nom": "Ecorfé la Vive",
+   "monstre": "Fécorce",
+   "etapes": 32,
+   "lvl_min": 128,
+   "lvl_max": 140,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    54
+   ]
+  },
+  {
+   "id": 187,
+   "nom": "Fandanleuil le Précis",
+   "monstre": "Fantôme Ardent",
+   "etapes": 29,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    8
+   ]
+  },
+  {
+   "id": 247,
+   "nom": "Fangshui la Dysorthographiée",
+   "monstre": "Fangshu",
+   "etapes": 32,
+   "lvl_min": 132,
+   "lvl_max": 140,
+   "pierre_dame_id": 3,
+   "capture": true,
+   "nombre_possede": 4,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    1
+   ]
+  },
+  {
+   "id": 188,
+   "nom": "Fanlabiz le Véloce",
+   "monstre": "Fantôme Apero",
+   "etapes": 29,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    8
+   ]
+  },
+  {
+   "id": 189,
+   "nom": "Fantoch le Pantin",
+   "monstre": "Fantôme Arepo",
+   "etapes": 29,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    8
+   ]
+  },
+  {
+   "id": 190,
+   "nom": "Fantrask la Rêveuse",
+   "monstre": "Fantôme Brave",
+   "etapes": 29,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    8
+   ]
+  },
+  {
+   "id": 114,
+   "nom": "Farlon l'Enfant",
+   "monstre": "Cochon de Farle",
+   "etapes": 25,
+   "lvl_min": 90,
+   "lvl_max": 98,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    59,
+    100
+   ]
+  },
+  {
+   "id": 248,
+   "nom": "Faufoll la Joyeuse",
+   "monstre": "Fauchalak",
+   "etapes": 32,
+   "lvl_min": 108,
+   "lvl_max": 120,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    104
+   ]
+  },
+  {
+   "id": 249,
+   "nom": "Floanna la Blonde",
+   "monstre": "floribonde",
+   "etapes": 32,
+   "lvl_min": 129,
+   "lvl_max": 141,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    54
+   ]
+  },
+  {
+   "id": 128,
+   "nom": "Floriste la Cannibale",
+   "monstre": "Floristile",
+   "etapes": 26,
+   "lvl_min": 102,
+   "lvl_max": 110,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    82
+   ]
+  },
+  {
+   "id": 129,
+   "nom": "Forboyar l'Enigmatique",
+   "monstre": "Forgeron Sombre",
+   "etapes": 26,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    98,
+    73
+   ]
+  },
+  {
+   "id": 227,
+   "nom": "Fossamoel le Juteux",
+   "monstre": "Fossoyeur Koalak",
+   "etapes": 31,
+   "lvl_min": 101,
+   "lvl_max": 112,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    24
+   ]
+  },
+  {
+   "id": 207,
+   "nom": "Fouflay le Retombé",
+   "monstre": "Foufayteur",
+   "etapes": 30,
+   "lvl_min": 64,
+   "lvl_max": 72,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    90
+   ]
+  },
+  {
+   "id": 65,
+   "nom": "Fourapin le Chaud",
+   "monstre": "Fourbasse",
+   "etapes": 23,
+   "lvl_min": 92,
+   "lvl_max": 100,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    53
+   ]
+  },
+  {
+   "id": 206,
+   "nom": "Félyssion la Gourmande",
+   "monstre": "Félygiène",
+   "etapes": 30,
+   "lvl_min": 150,
+   "lvl_max": 158,
+   "pierre_dame_id": 4,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    32,
+    110
+   ]
+  },
+  {
+   "id": 89,
+   "nom": "Garsim le Mort",
+   "monstre": "Gargrouille",
+   "etapes": 24,
+   "lvl_min": 32,
+   "lvl_max": 40,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    20
+   ]
+  },
+  {
+   "id": 250,
+   "nom": "Gastroth la Contagieuse",
+   "monstre": "Gamine Zoth",
+   "etapes": 32,
+   "lvl_min": 117,
+   "lvl_max": 129,
+   "pierre_dame_id": 3,
+   "capture": true,
+   "nombre_possede": 4,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    106,
+    111
+   ]
+  },
+  {
+   "id": 25,
+   "nom": "Gelanal le Huileux",
+   "monstre": "Gelée Bleue",
+   "etapes": 21,
+   "lvl_min": 54,
+   "lvl_max": 62,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    75
+   ]
+  },
+  {
+   "id": 90,
+   "nom": "Gelaviv le Glaçon",
+   "monstre": "Gelée Fraise",
+   "etapes": 24,
+   "lvl_min": 54,
+   "lvl_max": 62,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    75
+   ]
+  },
+  {
+   "id": 26,
+   "nom": "Geloliaine l'Aérien",
+   "monstre": "Gelée Menthe",
+   "etapes": 21,
+   "lvl_min": 54,
+   "lvl_max": 62,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    75
+   ]
+  },
+  {
+   "id": 146,
+   "nom": "Germinol l'Indigent",
+   "monstre": "Gamino",
+   "etapes": 27,
+   "lvl_min": 120,
+   "lvl_max": 128,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    60
+   ]
+  },
+  {
+   "id": 130,
+   "nom": "Ginsenk le Stimulant",
+   "monstre": "Gink",
+   "etapes": 26,
+   "lvl_min": 35,
+   "lvl_max": 47,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    108,
+    68
+   ]
+  },
+  {
+   "id": 228,
+   "nom": "Gloubibou le Gars",
+   "monstre": "Gloutovore",
+   "etapes": 31,
+   "lvl_min": 92,
+   "lvl_max": 100,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    53
+   ]
+  },
+  {
+   "id": 27,
+   "nom": "Gobstiniais le Têtu",
+   "monstre": "Gobelin",
+   "etapes": 21,
+   "lvl_min": 32,
+   "lvl_max": 40,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    70,
+    11,
+    12
+   ]
+  },
+  {
+   "id": 131,
+   "nom": "Grandilok le Clameur",
+   "monstre": "Grand Pa Wabbit",
+   "etapes": 26,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    50,
+    51
+   ]
+  },
+  {
+   "id": 147,
+   "nom": "Grenuche la Gentille",
+   "monstre": "Grenufar",
+   "etapes": 27,
+   "lvl_min": 102,
+   "lvl_max": 110,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    82
+   ]
+  },
+  {
+   "id": 208,
+   "nom": "Guerrite le Veilleur",
+   "monstre": "Guerrier Koalak",
+   "etapes": 30,
+   "lvl_min": 101,
+   "lvl_max": 112,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    104
+   ]
+  },
+  {
+   "id": 251,
+   "nom": "Guerumoth le Collant",
+   "monstre": "Guerrier Zoth",
+   "etapes": 32,
+   "lvl_min": 120,
+   "lvl_max": 132,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    106,
+    111
+   ]
+  },
+  {
+   "id": 229,
+   "nom": "Inopenope le Négatif",
+   "monstre": "Ino-Naru",
+   "etapes": 31,
+   "lvl_min": 132,
+   "lvl_max": 140,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    1
+   ]
+  },
+  {
+   "id": 268,
+   "nom": "Jiankor le Radoteur",
+   "monstre": "Jiangshi-nobi",
+   "etapes": 33,
+   "lvl_min": 152,
+   "lvl_max": 160,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    21
+   ]
+  },
+  {
+   "id": 209,
+   "nom": "Kanasukr le Mielleux",
+   "monstre": "Kanigrou",
+   "etapes": 30,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    90
+   ]
+  },
+  {
+   "id": 210,
+   "nom": "Kanibière l'Encordée",
+   "monstre": "Kaniblou",
+   "etapes": 30,
+   "lvl_min": 151,
+   "lvl_max": 159,
+   "pierre_dame_id": 4,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    32,
+    110
+   ]
+  },
+  {
+   "id": 148,
+   "nom": "Kannibal le Lecteur",
+   "monstre": "Kanniboul Archer",
+   "etapes": 27,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    42
+   ]
+  },
+  {
+   "id": 165,
+   "nom": "Kannisterik le Forcené",
+   "monstre": "Kanniboul Thierry",
+   "etapes": 28,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    42
+   ]
+  },
+  {
+   "id": 164,
+   "nom": "Kannémik le Maigre",
+   "monstre": "Kanniboul Sarbak",
+   "etapes": 28,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    42
+   ]
+  },
+  {
+   "id": 280,
+   "nom": "Kaonucléair l'Instable",
+   "monstre": "Kaonashi",
+   "etapes": 34,
+   "lvl_min": 162,
+   "lvl_max": 170,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 3,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    69
+   ]
+  },
+  {
+   "id": 149,
+   "nom": "Kapota la Fraise",
+   "monstre": "Kanniboul Jav",
+   "etapes": 27,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    42
+   ]
+  },
+  {
+   "id": 269,
+   "nom": "Kaskapointhe la Couverte",
+   "monstre": "Kaskargo",
+   "etapes": 33,
+   "lvl_min": 152,
+   "lvl_max": 160,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 3,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    103,
+    38
+   ]
+  },
+  {
+   "id": 211,
+   "nom": "Kido l'Âtre",
+   "monstre": "Kido",
+   "etapes": 30,
+   "lvl_min": 95,
+   "lvl_max": 107,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    80
+   ]
+  },
+  {
+   "id": 212,
+   "nom": "Kilimanj'haro le Grimpeur",
+   "monstre": "Kilibriss",
+   "etapes": 30,
+   "lvl_min": 98,
+   "lvl_max": 110,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    80
+   ]
+  },
+  {
+   "id": 132,
+   "nom": "Kiroyal le Sirupeux",
+   "monstre": "Kirevam",
+   "etapes": 26,
+   "lvl_min": 35,
+   "lvl_max": 47,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    5,
+    108
+   ]
+  },
+  {
+   "id": 191,
+   "nom": "Koakofrui le Confit",
+   "monstre": "Koalak Griotte",
+   "etapes": 29,
+   "lvl_min": 80,
+   "lvl_max": 88,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    13
+   ]
+  },
+  {
+   "id": 252,
+   "nom": "Koalaboi le Calorifère",
+   "monstre": "Koalak Farouche",
+   "etapes": 32,
+   "lvl_min": 104,
+   "lvl_max": 116,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    104
+   ]
+  },
+  {
+   "id": 150,
+   "nom": "Koalastrof la Naturelle",
+   "monstre": "Koalak immature",
+   "etapes": 27,
+   "lvl_min": 60,
+   "lvl_max": 68,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    62,
+    41
+   ]
+  },
+  {
+   "id": 253,
+   "nom": "Koalvissie le Chauve",
+   "monstre": "Koalak Sanguin",
+   "etapes": 32,
+   "lvl_min": 102,
+   "lvl_max": 114,
+   "pierre_dame_id": 3,
+   "capture": true,
+   "nombre_possede": 3,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    104
+   ]
+  },
+  {
+   "id": 192,
+   "nom": "Koamaembair le Coulant",
+   "monstre": "Koalak Coco",
+   "etapes": 29,
+   "lvl_min": 80,
+   "lvl_max": 88,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    13
+   ]
+  },
+  {
+   "id": 230,
+   "nom": "Koamag'oel le Défiguré",
+   "monstre": "Chevaucheur Koalak",
+   "etapes": 31,
+   "lvl_min": 102,
+   "lvl_max": 114,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    24
+   ]
+  },
+  {
+   "id": 193,
+   "nom": "Koarmit la Batracienne",
+   "monstre": "Koalak Reinette",
+   "etapes": 29,
+   "lvl_min": 80,
+   "lvl_max": 88,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    13
+   ]
+  },
+  {
+   "id": 194,
+   "nom": "Koaskette la Chapelière",
+   "monstre": "Koalak Indigo",
+   "etapes": 29,
+   "lvl_min": 80,
+   "lvl_max": 88,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    13
+   ]
+  },
+  {
+   "id": 231,
+   "nom": "Koasossyal le Psychopathe",
+   "monstre": "Koalak Forestier",
+   "etapes": 31,
+   "lvl_min": 80,
+   "lvl_max": 88,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    41
+   ]
+  },
+  {
+   "id": 151,
+   "nom": "Koko la Violente",
+   "monstre": "Kokom",
+   "etapes": 27,
+   "lvl_min": 122,
+   "lvl_max": 130,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    2
+   ]
+  },
+  {
+   "id": 133,
+   "nom": "Koktèle le Secoué",
+   "monstre": "Kokoko",
+   "etapes": 26,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    77,
+    48
+   ]
+  },
+  {
+   "id": 28,
+   "nom": "Kolforthe l'Indécollable",
+   "monstre": "Kolérat",
+   "etapes": 21,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    33
+   ]
+  },
+  {
+   "id": 91,
+   "nom": "Krapahut le Randonneur",
+   "monstre": "Kraméléhon",
+   "etapes": 24,
+   "lvl_min": 110,
+   "lvl_max": 118,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    49
+   ]
+  },
+  {
+   "id": 166,
+   "nom": "Kwakamole l'Appétissant",
+   "monstre": "Kwak de Terre",
+   "etapes": 28,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    71
+   ]
+  },
+  {
+   "id": 168,
+   "nom": "Kwakolak le Chocolaté",
+   "monstre": "Kwak de Flamme",
+   "etapes": 28,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    71
+   ]
+  },
+  {
+   "id": 169,
+   "nom": "Kwakwatique le Trempé",
+   "monstre": "Kwak de Glace",
+   "etapes": 28,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    71
+   ]
+  },
+  {
+   "id": 167,
+   "nom": "Kwaké le Piraté",
+   "monstre": "Kwak de Vent",
+   "etapes": 28,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    71
+   ]
+  },
+  {
+   "id": 29,
+   "nom": "Kwoanneur le Frimeur",
+   "monstre": "Kwoan",
+   "etapes": 21,
+   "lvl_min": 32,
+   "lvl_max": 40,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    43,
+    19
+   ]
+  },
+  {
+   "id": 30,
+   "nom": "Larchimaide la Poussée",
+   "monstre": "Larve Verte",
+   "etapes": 21,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    84,
+    83,
+    7,
+    29,
+    89
+   ]
+  },
+  {
+   "id": 213,
+   "nom": "Larvaloeil l'Émue",
+   "monstre": "Larve Champêtre",
+   "etapes": 30,
+   "lvl_min": 56,
+   "lvl_max": 64,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    17
+   ]
+  },
+  {
+   "id": 31,
+   "nom": "Larvapstrè le Subjectif",
+   "monstre": "Larve Orange",
+   "etapes": 21,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    84,
+    83,
+    7,
+    29,
+    89
+   ]
+  },
+  {
+   "id": 115,
+   "nom": "Larvomatik le Propre",
+   "monstre": "Larve jaune",
+   "etapes": 25,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    84,
+    83,
+    29,
+    89
+   ]
+  },
+  {
+   "id": 8,
+   "nom": "Larvonika l'Instrument",
+   "monstre": "Larve Bleue",
+   "etapes": 20,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    84,
+    83,
+    7,
+    29,
+    89
+   ]
+  },
+  {
+   "id": 134,
+   "nom": "Let le Rond",
+   "monstre": "Let Emoliug",
+   "etapes": 26,
+   "lvl_min": 35,
+   "lvl_max": 47,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    5,
+    108
+   ]
+  },
+  {
+   "id": 232,
+   "nom": "Lichangora l'Immaculée",
+   "monstre": "Lichangoro",
+   "etapes": 31,
+   "lvl_min": 132,
+   "lvl_max": 140,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    1
+   ]
+  },
+  {
+   "id": 281,
+   "nom": "Madgang le Docteur",
+   "monstre": "Madura",
+   "etapes": 34,
+   "lvl_min": 162,
+   "lvl_max": 170,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    69
+   ]
+  },
+  {
+   "id": 92,
+   "nom": "Mallopiée l'Épineuse",
+   "monstre": "Malle Outillée",
+   "etapes": 24,
+   "lvl_min": 57,
+   "lvl_max": 65,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    66
+   ]
+  },
+  {
+   "id": 254,
+   "nom": "Mamakomou l'Âge",
+   "monstre": "Mama Koalak",
+   "etapes": 32,
+   "lvl_min": 90,
+   "lvl_max": 98,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    13
+   ]
+  },
+  {
+   "id": 93,
+   "nom": "Mandalo l'Aqueuse",
+   "monstre": "Mandrine",
+   "etapes": 24,
+   "lvl_min": 100,
+   "lvl_max": 108,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    49
+   ]
+  },
+  {
+   "id": 66,
+   "nom": "Maître Amboat le Moqueur",
+   "monstre": "Maître Vampire",
+   "etapes": 23,
+   "lvl_min": 37,
+   "lvl_max": 49,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    30
+   ]
+  },
+  {
+   "id": 152,
+   "nom": "Maître Champeur le Sabreur",
+   "monstre": "Maître Bolet",
+   "etapes": 27,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    90
+   ]
+  },
+  {
+   "id": 270,
+   "nom": "Maître Koantik le Théoricien",
+   "monstre": "Maître Koalak",
+   "etapes": 33,
+   "lvl_min": 108,
+   "lvl_max": 120,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    24
+   ]
+  },
+  {
+   "id": 233,
+   "nom": "Meuroup le Prêtre",
+   "monstre": "Meupette",
+   "etapes": 31,
+   "lvl_min": 143,
+   "lvl_max": 155,
+   "pierre_dame_id": 4,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    103
+   ]
+  },
+  {
+   "id": 67,
+   "nom": "Milipatte la Griffe",
+   "monstre": "Milimulou",
+   "etapes": 23,
+   "lvl_min": 22,
+   "lvl_max": 30,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    40,
+    39,
+    67
+   ]
+  },
+  {
+   "id": 51,
+   "nom": "Milipussien le Géant",
+   "monstre": "Milirat d'Egoutant Malade",
+   "etapes": 22,
+   "lvl_min": 22,
+   "lvl_max": 30,
+   "pierre_dame_id": 1,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    35
+   ]
+  },
+  {
+   "id": 68,
+   "nom": "Minoskour le Sauveur",
+   "monstre": "Minoskito",
+   "etapes": 23,
+   "lvl_min": 102,
+   "lvl_max": 110,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    49
+   ]
+  },
+  {
+   "id": 69,
+   "nom": "Minsinistre l'Elu",
+   "monstre": "Mineur Sombre",
+   "etapes": 23,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    98,
+    73
+   ]
+  },
+  {
+   "id": 255,
+   "nom": "Momikonos la Bandelette",
+   "monstre": "Momie Koalak",
+   "etapes": 32,
+   "lvl_min": 106,
+   "lvl_max": 118,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    24
+   ]
+  },
+  {
+   "id": 9,
+   "nom": "Mosketère le Dévoué",
+   "monstre": "Moskito",
+   "etapes": 20,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    7,
+    10
+   ]
+  },
+  {
+   "id": 170,
+   "nom": "Moumoute la Douce",
+   "monstre": "Moumoule",
+   "etapes": 28,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    87
+   ]
+  },
+  {
+   "id": 214,
+   "nom": "Mufguedin le Suprême",
+   "monstre": "Mufafah",
+   "etapes": 30,
+   "lvl_min": 94,
+   "lvl_max": 106,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    80
+   ]
+  },
+  {
+   "id": 215,
+   "nom": "Muloufok l'Hilarant",
+   "monstre": "Mulou",
+   "etapes": 30,
+   "lvl_min": 92,
+   "lvl_max": 100,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    45
+   ]
+  },
+  {
+   "id": 195,
+   "nom": "Nakuneuye le Borgne",
+   "monstre": "Nakunbra",
+   "etapes": 29,
+   "lvl_min": 82,
+   "lvl_max": 90,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    18
+   ]
+  },
+  {
+   "id": 135,
+   "nom": "Nelvin le Boulet",
+   "monstre": "Nebgib",
+   "etapes": 26,
+   "lvl_min": 35,
+   "lvl_max": 47,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    108,
+    68
+   ]
+  },
+  {
+   "id": 196,
+   "nom": "Nerdeubeu le Flagellant",
+   "monstre": "Nerbe",
+   "etapes": 29,
+   "lvl_min": 126,
+   "lvl_max": 138,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    54
+   ]
+  },
+  {
+   "id": 70,
+   "nom": "Neufedur le Flottant",
+   "monstre": "Noeul",
+   "etapes": 23,
+   "lvl_min": 20,
+   "lvl_max": 24,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    43
+   ]
+  },
+  {
+   "id": 136,
+   "nom": "Nipulnislip l'Exhibitionniste",
+   "monstre": "Nipul",
+   "etapes": 26,
+   "lvl_min": 35,
+   "lvl_max": 47,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    108,
+    68
+   ]
+  },
+  {
+   "id": 32,
+   "nom": "Nodkoku le Trahi",
+   "monstre": "Nodkoko",
+   "etapes": 21,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    77,
+    48
+   ]
+  },
+  {
+   "id": 271,
+   "nom": "Onabuémangé la Rassasiée",
+   "monstre": "Onabu-geisha",
+   "etapes": 33,
+   "lvl_min": 152,
+   "lvl_max": 160,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    21
+   ]
+  },
+  {
+   "id": 216,
+   "nom": "Orfélyre le Charmeur",
+   "monstre": "Orfélin",
+   "etapes": 30,
+   "lvl_min": 151,
+   "lvl_max": 159,
+   "pierre_dame_id": 4,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    32,
+    110
+   ]
+  },
+  {
+   "id": 137,
+   "nom": "Osuxion le Vampirique",
+   "monstre": "Osurc",
+   "etapes": 26,
+   "lvl_min": 35,
+   "lvl_max": 47,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    108,
+    68
+   ]
+  },
+  {
+   "id": 153,
+   "nom": "Ouashouash l'Exubérant",
+   "monstre": "Le Ouassingue Entourbé",
+   "etapes": 27,
+   "lvl_min": 92,
+   "lvl_max": 104,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    102,
+    101
+   ]
+  },
+  {
+   "id": 154,
+   "nom": "Ouassébo l'Esthète",
+   "monstre": "Le Ouassingue",
+   "etapes": 27,
+   "lvl_min": 32,
+   "lvl_max": 40,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    20
+   ]
+  },
+  {
+   "id": 155,
+   "nom": "Ouature la Mobile",
+   "monstre": "La Ouassingue",
+   "etapes": 27,
+   "lvl_min": 32,
+   "lvl_max": 40,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    20
+   ]
+  },
+  {
+   "id": 171,
+   "nom": "Ougaould le Parasite",
+   "monstre": "Chafer Draugr",
+   "etapes": 28,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    23,
+    19,
+    22
+   ]
+  },
+  {
+   "id": 172,
+   "nom": "Palmbytch la Bronzée",
+   "monstre": "Palmifleur Kouraçao",
+   "etapes": 28,
+   "lvl_min": 37,
+   "lvl_max": 49,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    76
+   ]
+  },
+  {
+   "id": 156,
+   "nom": "Palmiche le Serein",
+   "monstre": "Palmifleur Morito",
+   "etapes": 27,
+   "lvl_min": 37,
+   "lvl_max": 49,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    76
+   ]
+  },
+  {
+   "id": 157,
+   "nom": "Palmiflette le Convivial",
+   "monstre": "Palmifleur Passaoh",
+   "etapes": 27,
+   "lvl_min": 37,
+   "lvl_max": 49,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    76
+   ]
+  },
+  {
+   "id": 158,
+   "nom": "Palmito le Menteur",
+   "monstre": "Palmifleur Malibout",
+   "etapes": 27,
+   "lvl_min": 37,
+   "lvl_max": 49,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    76
+   ]
+  },
+  {
+   "id": 217,
+   "nom": "Pantacour le Long",
+   "monstre": "Panthègros",
+   "etapes": 30,
+   "lvl_min": 150,
+   "lvl_max": 158,
+   "pierre_dame_id": 4,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    32,
+    110
+   ]
+  },
+  {
+   "id": 173,
+   "nom": "Parapadkouï l'Émasculé",
+   "monstre": "Parashukouï",
+   "etapes": 28,
+   "lvl_min": 122,
+   "lvl_max": 130,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    97
+   ]
+  },
+  {
+   "id": 71,
+   "nom": "Pichakoté le Dégoûtant",
+   "monstre": "Pichon Vert",
+   "etapes": 23,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    9
+   ]
+  },
+  {
+   "id": 72,
+   "nom": "Pichdourse le Puissant",
+   "monstre": "Pichon Bleu",
+   "etapes": 23,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    9
+   ]
+  },
+  {
+   "id": 73,
+   "nom": "Pichduitre le Totem",
+   "monstre": "Pichon Blanc",
+   "etapes": 23,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    9
+   ]
+  },
+  {
+   "id": 74,
+   "nom": "Pichtoire l'Erudit",
+   "monstre": "Pichon Orange",
+   "etapes": 23,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    9
+   ]
+  },
+  {
+   "id": 10,
+   "nom": "Pioufe la Maquillée",
+   "monstre": "Piou Rose",
+   "etapes": 20,
+   "lvl_min": 11,
+   "lvl_max": 15,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    95,
+    105,
+    25,
+    36,
+    46,
+    31,
+    86,
+    57,
+    55,
+    58,
+    56
+   ]
+  },
+  {
+   "id": 11,
+   "nom": "Pioukas la Plante",
+   "monstre": "Piou Vert",
+   "etapes": 20,
+   "lvl_min": 11,
+   "lvl_max": 15,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    95,
+    105,
+    25,
+    36,
+    46,
+    31,
+    86,
+    57,
+    55,
+    58,
+    56
+   ]
+  },
+  {
+   "id": 12,
+   "nom": "Pioulbrineur le Mercenaire",
+   "monstre": "Piou Jaune",
+   "etapes": 20,
+   "lvl_min": 11,
+   "lvl_max": 15,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    95,
+    105,
+    25,
+    36,
+    46,
+    31,
+    86,
+    57,
+    55,
+    58,
+    56
+   ]
+  },
+  {
+   "id": 13,
+   "nom": "Pioulette la Coquine",
+   "monstre": "Piou Rouge",
+   "etapes": 20,
+   "lvl_min": 11,
+   "lvl_max": 15,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    25,
+    36,
+    46,
+    31,
+    86,
+    57,
+    55,
+    58,
+    56
+   ]
+  },
+  {
+   "id": 14,
+   "nom": "Pioussokrim le Délétère",
+   "monstre": "Piou Violet",
+   "etapes": 20,
+   "lvl_min": 11,
+   "lvl_max": 15,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    95,
+    105,
+    25,
+    36,
+    46,
+    31,
+    86,
+    57,
+    55,
+    58,
+    56
+   ]
+  },
+  {
+   "id": 15,
+   "nom": "Pioustone le Problème",
+   "monstre": "Piou Bleu",
+   "etapes": 20,
+   "lvl_min": 11,
+   "lvl_max": 15,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    95,
+    105,
+    25,
+    36,
+    46,
+    31,
+    86,
+    57,
+    55,
+    58,
+    56
+   ]
+  },
+  {
+   "id": 235,
+   "nom": "Piradain le Pingre",
+   "monstre": "Piralak",
+   "etapes": 31,
+   "lvl_min": 80,
+   "lvl_max": 88,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    62
+   ]
+  },
+  {
+   "id": 16,
+   "nom": "Pissdane l'Insipide",
+   "monstre": "Pissenlit Diabolique",
+   "etapes": 20,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    88,
+    16
+   ]
+  },
+  {
+   "id": 272,
+   "nom": "Poolopo la Traditionnelle",
+   "monstre": "Poolay",
+   "etapes": 33,
+   "lvl_min": 142,
+   "lvl_max": 158,
+   "pierre_dame_id": 4,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    103,
+    38
+   ]
+  },
+  {
+   "id": 52,
+   "nom": "Porfavor le Quémandeur",
+   "monstre": "Berger Porkass",
+   "etapes": 22,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    78
+   ]
+  },
+  {
+   "id": 174,
+   "nom": "Porsalé le Râleur",
+   "monstre": "Porsalu",
+   "etapes": 28,
+   "lvl_min": 80,
+   "lvl_max": 92,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    59,
+    100
+   ]
+  },
+  {
+   "id": 53,
+   "nom": "Preskapwal le Tendancieux",
+   "monstre": "Prespic",
+   "etapes": 22,
+   "lvl_min": 22,
+   "lvl_max": 30,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    40,
+    39,
+    7,
+    67
+   ]
+  },
+  {
+   "id": 234,
+   "nom": "Pékeutar le Tireur",
+   "monstre": "Pékeualak",
+   "etapes": 31,
+   "lvl_min": 80,
+   "lvl_max": 88,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    62
+   ]
+  },
+  {
+   "id": 256,
+   "nom": "Pétarfoutu le Mouillé",
+   "monstre": "Pétartifoux",
+   "etapes": 32,
+   "lvl_min": 132,
+   "lvl_max": 140,
+   "pierre_dame_id": 3,
+   "capture": true,
+   "nombre_possede": 2,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    37
+   ]
+  },
+  {
+   "id": 116,
+   "nom": "Radoutable le Craint",
+   "monstre": "Rat d'Egoutant Malade",
+   "etapes": 25,
+   "lvl_min": 22,
+   "lvl_max": 30,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    35
+   ]
+  },
+  {
+   "id": 175,
+   "nom": "Ratlbol l'Aigri",
+   "monstre": "Rat d'Egoutant",
+   "etapes": 28,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    94
+   ]
+  },
+  {
+   "id": 197,
+   "nom": "Ratéhaifaim le Professeur",
+   "monstre": "Rat d'hyoactif",
+   "etapes": 29,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    94
+   ]
+  },
+  {
+   "id": 176,
+   "nom": "Rauligo le Sale",
+   "monstre": "Raul Mops",
+   "etapes": 28,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    87
+   ]
+  },
+  {
+   "id": 94,
+   "nom": "Ribibi le Cher",
+   "monstre": "Rib",
+   "etapes": 24,
+   "lvl_min": 34,
+   "lvl_max": 42,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    43,
+    19,
+    6
+   ]
+  },
+  {
+   "id": 54,
+   "nom": "Robiolego l'Assemblé",
+   "monstre": "Robionicle",
+   "etapes": 22,
+   "lvl_min": 55,
+   "lvl_max": 63,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    66
+   ]
+  },
+  {
+   "id": 75,
+   "nom": "Robocoop l'Échangé",
+   "monstre": "Robot Fléau",
+   "etapes": 23,
+   "lvl_min": 53,
+   "lvl_max": 61,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    66
+   ]
+  },
+  {
+   "id": 236,
+   "nom": "Rooroku l'Imposant",
+   "monstre": "Kurookin",
+   "etapes": 31,
+   "lvl_min": 132,
+   "lvl_max": 140,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    1
+   ]
+  },
+  {
+   "id": 76,
+   "nom": "Rostensyl la Cuisinière",
+   "monstre": "Rose Obscure",
+   "etapes": 23,
+   "lvl_min": 19,
+   "lvl_max": 27,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    88
+   ]
+  },
+  {
+   "id": 282,
+   "nom": "Roy le Merlin",
+   "monstre": "Roissingue",
+   "etapes": 34,
+   "lvl_min": 181,
+   "lvl_max": 189,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    102,
+    101
+   ]
+  },
+  {
+   "id": 33,
+   "nom": "Roz la Magicienne",
+   "monstre": "Rose Démoniaque",
+   "etapes": 21,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    88,
+    28,
+    16
+   ]
+  },
+  {
+   "id": 159,
+   "nom": "Sampi l'Eternel",
+   "monstre": "Sanglier des plaines",
+   "etapes": 27,
+   "lvl_min": 40,
+   "lvl_max": 48,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    78
+   ]
+  },
+  {
+   "id": 55,
+   "nom": "Sangria le Fruité",
+   "monstre": "Sanglier",
+   "etapes": 22,
+   "lvl_min": 22,
+   "lvl_max": 30,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    40,
+    39,
+    7,
+    67
+   ]
+  },
+  {
+   "id": 177,
+   "nom": "Sarkastik l'Incompris",
+   "monstre": "Sarkapwane",
+   "etapes": 28,
+   "lvl_min": 122,
+   "lvl_max": 130,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    2
+   ]
+  },
+  {
+   "id": 95,
+   "nom": "Scapé l'Epée",
+   "monstre": "Scarafeuille Blanc",
+   "etapes": 24,
+   "lvl_min": 34,
+   "lvl_max": 42,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    79
+   ]
+  },
+  {
+   "id": 96,
+   "nom": "Scaramel le Fondant",
+   "monstre": "Scarafeuille Vert",
+   "etapes": 24,
+   "lvl_min": 34,
+   "lvl_max": 42,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    79
+   ]
+  },
+  {
+   "id": 117,
+   "nom": "Scaratyn l'Huître",
+   "monstre": "Scaratos",
+   "etapes": 25,
+   "lvl_min": 110,
+   "lvl_max": 118,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    60
+   ]
+  },
+  {
+   "id": 97,
+   "nom": "Scarfayss le Balafré",
+   "monstre": "Scarafeuille Bleu",
+   "etapes": 24,
+   "lvl_min": 34,
+   "lvl_max": 42,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    79
+   ]
+  },
+  {
+   "id": 98,
+   "nom": "Scarouarze l'Epopée",
+   "monstre": "Scarafeuille Rouge",
+   "etapes": 24,
+   "lvl_min": 34,
+   "lvl_max": 42,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    79
+   ]
+  },
+  {
+   "id": 118,
+   "nom": "Scorpitène l'Enflammé",
+   "monstre": "Scorbute",
+   "etapes": 25,
+   "lvl_min": 62,
+   "lvl_max": 70,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    33
+   ]
+  },
+  {
+   "id": 273,
+   "nom": "Seripoth l'Ennemi",
+   "monstre": "Sergent Zoth",
+   "etapes": 33,
+   "lvl_min": 123,
+   "lvl_max": 135,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    106,
+    111
+   ]
+  },
+  {
+   "id": 34,
+   "nom": "Serpistol l'Illustre",
+   "monstre": "Serpentin",
+   "etapes": 21,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    17
+   ]
+  },
+  {
+   "id": 178,
+   "nom": "Serpistule le Purulent",
+   "monstre": "Serpiplume",
+   "etapes": 28,
+   "lvl_min": 120,
+   "lvl_max": 128,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    60,
+    49
+   ]
+  },
+  {
+   "id": 218,
+   "nom": "Souristiti l'Immortalisée",
+   "monstre": "Souris Verte",
+   "etapes": 30,
+   "lvl_min": 54,
+   "lvl_max": 62,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    17
+   ]
+  },
+  {
+   "id": 17,
+   "nom": "Sourizoto le Collant",
+   "monstre": "Souris Grise",
+   "etapes": 20,
+   "lvl_min": 1,
+   "lvl_max": 1,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    30
+   ]
+  },
+  {
+   "id": 198,
+   "nom": "Sparoket le Lanceur",
+   "monstre": "Sparo",
+   "etapes": 29,
+   "lvl_min": 57,
+   "lvl_max": 69,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    4
+   ]
+  },
+  {
+   "id": 138,
+   "nom": "Susbewl l'Hypocrite",
+   "monstre": "Susej",
+   "etapes": 26,
+   "lvl_min": 35,
+   "lvl_max": 47,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    5,
+    108
+   ]
+  },
+  {
+   "id": 274,
+   "nom": "Tambouille le Gastronome",
+   "monstre": "Tambouraï",
+   "etapes": 33,
+   "lvl_min": 152,
+   "lvl_max": 160,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 3,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    21
+   ]
+  },
+  {
+   "id": 35,
+   "nom": "Tikosto le Mousse",
+   "monstre": "Tikokoko",
+   "etapes": 21,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    77,
+    48
+   ]
+  },
+  {
+   "id": 199,
+   "nom": "Tilolo la Bien Moulée",
+   "monstre": "Lolojiki",
+   "etapes": 29,
+   "lvl_min": 122,
+   "lvl_max": 130,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    97
+   ]
+  },
+  {
+   "id": 36,
+   "nom": "Tiwa'Missou le Gateux",
+   "monstre": "Black Tiwabbit",
+   "etapes": 21,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    47
+   ]
+  },
+  {
+   "id": 37,
+   "nom": "Tiwalpé le Dévêtu",
+   "monstre": "Tiwabbit",
+   "etapes": 21,
+   "lvl_min": 41,
+   "lvl_max": 49,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    47
+   ]
+  },
+  {
+   "id": 38,
+   "nom": "Tiwoflan le Lâche",
+   "monstre": "Tiwabbit Kiafin",
+   "etapes": 21,
+   "lvl_min": 40,
+   "lvl_max": 48,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    47
+   ]
+  },
+  {
+   "id": 18,
+   "nom": "Tofuldebeu l'Explosif",
+   "monstre": "Tofu",
+   "etapes": 20,
+   "lvl_min": 32,
+   "lvl_max": 40,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    15
+   ]
+  },
+  {
+   "id": 19,
+   "nom": "Tofumanchou l'Empereur",
+   "monstre": "Tofu Maléfique",
+   "etapes": 20,
+   "lvl_min": 32,
+   "lvl_max": 40,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    43,
+    19,
+    30
+   ]
+  },
+  {
+   "id": 20,
+   "nom": "Tofurapin le Pétri",
+   "monstre": "Tofu Malade",
+   "etapes": 20,
+   "lvl_min": 11,
+   "lvl_max": 15,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    92
+   ]
+  },
+  {
+   "id": 56,
+   "nom": "Tortenssia la Fleurie",
+   "monstre": "Tortue Bleue",
+   "etapes": 22,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    77
+   ]
+  },
+  {
+   "id": 57,
+   "nom": "Torthur la Lutte",
+   "monstre": "Tortue Jaune",
+   "etapes": 22,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    77
+   ]
+  },
+  {
+   "id": 77,
+   "nom": "Tortilleur le Coulé",
+   "monstre": "Tortue Verte",
+   "etapes": 23,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    77
+   ]
+  },
+  {
+   "id": 78,
+   "nom": "Tortorak le Cornu",
+   "monstre": "Tortue Rouge",
+   "etapes": 23,
+   "lvl_min": 42,
+   "lvl_max": 50,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    77
+   ]
+  },
+  {
+   "id": 219,
+   "nom": "Toufou le Benêt",
+   "monstre": "Bitouf des Plaines",
+   "etapes": 30,
+   "lvl_min": 97,
+   "lvl_max": 109,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    80
+   ]
+  },
+  {
+   "id": 39,
+   "nom": "Tour le Vice",
+   "monstre": "Tournesol Sauvage",
+   "etapes": 21,
+   "lvl_min": 16,
+   "lvl_max": 20,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    88,
+    16
+   ]
+  },
+  {
+   "id": 257,
+   "nom": "Tourbiket le Virevoletant",
+   "monstre": "Tourbassingue",
+   "etapes": 32,
+   "lvl_min": 101,
+   "lvl_max": 112,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    102,
+    101
+   ]
+  },
+  {
+   "id": 275,
+   "nom": "Toutouf le Velu",
+   "monstre": "Bitouf Aérien",
+   "etapes": 33,
+   "lvl_min": 144,
+   "lvl_max": 160,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    103,
+    38
+   ]
+  },
+  {
+   "id": 276,
+   "nom": "Tromplamor le Survivant",
+   "monstre": "Tromperelle",
+   "etapes": 33,
+   "lvl_min": 172,
+   "lvl_max": 180,
+   "pierre_dame_id": 4,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    34
+   ]
+  },
+  {
+   "id": 119,
+   "nom": "Tronkoneuz la Tranchante",
+   "monstre": "Tronknyde",
+   "etapes": 25,
+   "lvl_min": 33,
+   "lvl_max": 45,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    72
+   ]
+  },
+  {
+   "id": 283,
+   "nom": "Tronquette la Réduite",
+   "monstre": "Rouquette",
+   "etapes": 34,
+   "lvl_min": 132,
+   "lvl_max": 140,
+   "pierre_dame_id": 3,
+   "capture": true,
+   "nombre_possede": 2,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    37
+   ]
+  },
+  {
+   "id": 277,
+   "nom": "Trooyé l'Oxydé",
+   "monstre": "Troollaraj",
+   "etapes": 33,
+   "lvl_min": 112,
+   "lvl_max": 120,
+   "pierre_dame_id": 3,
+   "capture": true,
+   "nombre_possede": 2,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    6
+   ]
+  },
+  {
+   "id": 40,
+   "nom": "Trukul le Lent",
+   "monstre": "Trukikol",
+   "etapes": 21,
+   "lvl_min": 92,
+   "lvl_max": 100,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    53
+   ]
+  },
+  {
+   "id": 278,
+   "nom": "Tsucékoi la Colporteuse",
+   "monstre": "Tsukinochi",
+   "etapes": 33,
+   "lvl_min": 152,
+   "lvl_max": 160,
+   "pierre_dame_id": 4,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    21
+   ]
+  },
+  {
+   "id": 284,
+   "nom": "Tsumani l'Inondeur",
+   "monstre": "Tsume-Bozu",
+   "etapes": 34,
+   "lvl_min": 162,
+   "lvl_max": 170,
+   "pierre_dame_id": 4,
+   "capture": true,
+   "nombre_possede": 1,
+   "pierre_dame": "Énorme pierre d'âme",
+   "zones_ids": [
+    69
+   ]
+  },
+  {
+   "id": 237,
+   "nom": "Tétonée la Plantureuse",
+   "monstre": "Tétonuki",
+   "etapes": 31,
+   "lvl_min": 122,
+   "lvl_max": 130,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    97
+   ]
+  },
+  {
+   "id": 58,
+   "nom": "Vampunor le Glacial",
+   "monstre": "Vampire",
+   "etapes": 22,
+   "lvl_min": 32,
+   "lvl_max": 40,
+   "pierre_dame_id": 1,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Petite pierre d'âme",
+   "zones_ids": [
+    30
+   ]
+  },
+  {
+   "id": 179,
+   "nom": "Vétaurine L'énergisé",
+   "monstre": "Vétauran",
+   "etapes": 28,
+   "lvl_min": 66,
+   "lvl_max": 74,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    90
+   ]
+  },
+  {
+   "id": 59,
+   "nom": "Wabbitud le Constant",
+   "monstre": "Wabbit",
+   "etapes": 22,
+   "lvl_min": 44,
+   "lvl_max": 52,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    47,
+    50
+   ]
+  },
+  {
+   "id": 79,
+   "nom": "Wagnagnah le Sanglant",
+   "monstre": "Black Wabbit",
+   "etapes": 23,
+   "lvl_min": 46,
+   "lvl_max": 54,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    47,
+    50
+   ]
+  },
+  {
+   "id": 258,
+   "nom": "Wara l'Amer",
+   "monstre": "Warko Violet",
+   "etapes": 32,
+   "lvl_min": 106,
+   "lvl_max": 118,
+   "pierre_dame_id": 3,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Grande pierre d'âme",
+   "zones_ids": [
+    104
+   ]
+  },
+  {
+   "id": 238,
+   "nom": "Warkolad l'Etreinte",
+   "monstre": "Warko Marron",
+   "etapes": 31,
+   "lvl_min": 74,
+   "lvl_max": 82,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    13,
+    41
+   ]
+  },
+  {
+   "id": 99,
+   "nom": "Watdogue le Bien Nommé",
+   "monstre": "Wabbit Squelette",
+   "etapes": 24,
+   "lvl_min": 48,
+   "lvl_max": 56,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    52
+   ]
+  },
+  {
+   "id": 139,
+   "nom": "Wokènrôl le Danseur",
+   "monstre": "Wo Wabbit",
+   "etapes": 26,
+   "lvl_min": 52,
+   "lvl_max": 60,
+   "pierre_dame_id": 2,
+   "capture": false,
+   "nombre_possede": null,
+   "pierre_dame": "Moyenne pierre d'âme",
+   "zones_ids": [
+    50,
+    51
+   ]
+  }
+ ],
+ "zones": [
+  {
+   "id": 1,
+   "nom": "Aerdala",
+   "travel": ""
+  },
+  {
+   "id": 2,
+   "nom": "Akwadala",
+   "travel": ""
+  },
+  {
+   "id": 3,
+   "nom": "Antre du Koulosse",
+   "travel": ""
+  },
+  {
+   "id": 4,
+   "nom": "Arche d'Otomaï",
+   "travel": ""
+  },
+  {
+   "id": 5,
+   "nom": "Baie de Cania",
+   "travel": ""
+  },
+  {
+   "id": 6,
+   "nom": "Bois de Litneg",
+   "travel": ""
+  },
+  {
+   "id": 7,
+   "nom": "Bord de la forêt maléfique",
+   "travel": ""
+  },
+  {
+   "id": 8,
+   "nom": "Bordure de Brâkmar",
+   "travel": ""
+  },
+  {
+   "id": 9,
+   "nom": "Calanques d'Astrub",
+   "travel": ""
+  },
+  {
+   "id": 10,
+   "nom": "Campagne d'Amakna",
+   "travel": ""
+  },
+  {
+   "id": 11,
+   "nom": "Campement des Bworks",
+   "travel": ""
+  },
+  {
+   "id": 12,
+   "nom": "Campement des Gobelins",
+   "travel": ""
+  },
+  {
+   "id": 13,
+   "nom": "Canyon sauvage",
+   "travel": ""
+  },
+  {
+   "id": 14,
+   "nom": "Caverne des Fungus",
+   "travel": ""
+  },
+  {
+   "id": 15,
+   "nom": "Champ des Ingalsse",
+   "travel": ""
+  },
+  {
+   "id": 16,
+   "nom": "Champs d'Astrub",
+   "travel": ""
+  },
+  {
+   "id": 17,
+   "nom": "Champs de Cania",
+   "travel": ""
+  },
+  {
+   "id": 18,
+   "nom": "Chemin du Crâne",
+   "travel": ""
+  },
+  {
+   "id": 19,
+   "nom": "Cimetière",
+   "travel": ""
+  },
+  {
+   "id": 20,
+   "nom": "Cimetière d'Astrub",
+   "travel": ""
+  },
+  {
+   "id": 21,
+   "nom": "Cimetière de Grobe",
+   "travel": ""
+  },
+  {
+   "id": 22,
+   "nom": "Cimetière des Héros",
+   "travel": ""
+  },
+  {
+   "id": 23,
+   "nom": "Cimetière des Torturés",
+   "travel": ""
+  },
+  {
+   "id": 24,
+   "nom": "Cimetière primitif",
+   "travel": ""
+  },
+  {
+   "id": 25,
+   "nom": "Cité d'Astrub",
+   "travel": ""
+  },
+  {
+   "id": 26,
+   "nom": "Clairière de Brouce Boulgoure",
+   "travel": ""
+  },
+  {
+   "id": 27,
+   "nom": "Coin des Boos",
+   "travel": ""
+  },
+  {
+   "id": 28,
+   "nom": "Coin des Bouftous",
+   "travel": ""
+  },
+  {
+   "id": 30,
+   "nom": "Cryptes du cimetière",
+   "travel": ""
+  },
+  {
+   "id": 29,
+   "nom": "Côte d'Asse",
+   "travel": ""
+  },
+  {
+   "id": 31,
+   "nom": "Cœur immaculé",
+   "travel": ""
+  },
+  {
+   "id": 32,
+   "nom": "Dents de Pierre",
+   "travel": ""
+  },
+  {
+   "id": 34,
+   "nom": "Domaine des Fungus",
+   "travel": ""
+  },
+  {
+   "id": 33,
+   "nom": "Désolation de Sidimote",
+   "travel": ""
+  },
+  {
+   "id": 36,
+   "nom": "Faubourgs des artisans",
+   "travel": ""
+  },
+  {
+   "id": 37,
+   "nom": "Feudala",
+   "travel": ""
+  },
+  {
+   "id": 38,
+   "nom": "Feuillage de l'arbre Hakam",
+   "travel": ""
+  },
+  {
+   "id": 44,
+   "nom": "Forêt Sombre",
+   "travel": ""
+  },
+  {
+   "id": 39,
+   "nom": "Forêt d'Amakna",
+   "travel": ""
+  },
+  {
+   "id": 40,
+   "nom": "Forêt d'Astrub",
+   "travel": ""
+  },
+  {
+   "id": 41,
+   "nom": "Forêt de Kaliptus",
+   "travel": ""
+  },
+  {
+   "id": 42,
+   "nom": "Forêt des Masques",
+   "travel": ""
+  },
+  {
+   "id": 43,
+   "nom": "Forêt maléfique",
+   "travel": ""
+  },
+  {
+   "id": 45,
+   "nom": "Hauts des Hurlements",
+   "travel": ""
+  },
+  {
+   "id": 46,
+   "nom": "Havres d'ivoire",
+   "travel": ""
+  },
+  {
+   "id": 53,
+   "nom": "Jungle Interdite",
+   "travel": ""
+  },
+  {
+   "id": 54,
+   "nom": "Jungle obscure",
+   "travel": ""
+  },
+  {
+   "id": 55,
+   "nom": "L'Ancre",
+   "travel": ""
+  },
+  {
+   "id": 56,
+   "nom": "L'Enclume",
+   "travel": ""
+  },
+  {
+   "id": 57,
+   "nom": "La Cuirasse",
+   "travel": ""
+  },
+  {
+   "id": 58,
+   "nom": "La Marmite",
+   "travel": ""
+  },
+  {
+   "id": 59,
+   "nom": "Labyrinthe du Dragon Cochon",
+   "travel": ""
+  },
+  {
+   "id": 60,
+   "nom": "Labyrinthe du Minotoror",
+   "travel": ""
+  },
+  {
+   "id": 61,
+   "nom": "Lac de Cania",
+   "travel": ""
+  },
+  {
+   "id": 62,
+   "nom": "Lacs enchantés",
+   "travel": ""
+  },
+  {
+   "id": 63,
+   "nom": "Marécages d'Amakna",
+   "travel": ""
+  },
+  {
+   "id": 64,
+   "nom": "Marécages nauséabonds",
+   "travel": ""
+  },
+  {
+   "id": 65,
+   "nom": "Marécages sans fond",
+   "travel": ""
+  },
+  {
+   "id": 66,
+   "nom": "Massif de Cania",
+   "travel": ""
+  },
+  {
+   "id": 67,
+   "nom": "Millifutaie",
+   "travel": ""
+  },
+  {
+   "id": 68,
+   "nom": "Mine des Dopeuls",
+   "travel": ""
+  },
+  {
+   "id": 69,
+   "nom": "Mont des Tombeaux",
+   "travel": ""
+  },
+  {
+   "id": 70,
+   "nom": "Montagne basse des Craqueleurs",
+   "travel": ""
+  },
+  {
+   "id": 71,
+   "nom": "Montagne des Craqueleurs",
+   "travel": ""
+  },
+  {
+   "id": 72,
+   "nom": "Orée de la forêt des Abraknydes",
+   "travel": ""
+  },
+  {
+   "id": 73,
+   "nom": "Passage vers Brâkmar",
+   "travel": ""
+  },
+  {
+   "id": 76,
+   "nom": "Plage de Corail",
+   "travel": ""
+  },
+  {
+   "id": 77,
+   "nom": "Plage de la Tortue",
+   "travel": ""
+  },
+  {
+   "id": 78,
+   "nom": "Plaine des Porkass",
+   "travel": ""
+  },
+  {
+   "id": 79,
+   "nom": "Plaine des Scarafeuilles",
+   "travel": ""
+  },
+  {
+   "id": 81,
+   "nom": "Plaines Rocheuses",
+   "travel": ""
+  },
+  {
+   "id": 80,
+   "nom": "Plaines herbeuses",
+   "travel": ""
+  },
+  {
+   "id": 82,
+   "nom": "Plantala",
+   "travel": ""
+  },
+  {
+   "id": 83,
+   "nom": "Port de Madrestam",
+   "travel": ""
+  },
+  {
+   "id": 84,
+   "nom": "Prairies d'Astrub",
+   "travel": ""
+  },
+  {
+   "id": 85,
+   "nom": "Presqu'île des Dragoeufs",
+   "travel": ""
+  },
+  {
+   "id": 86,
+   "nom": "Promontoire des cieux",
+   "travel": ""
+  },
+  {
+   "id": 74,
+   "nom": "Pénates du Corbac",
+   "travel": ""
+  },
+  {
+   "id": 75,
+   "nom": "Péninsule des gelées",
+   "travel": ""
+  },
+  {
+   "id": 87,
+   "nom": "Rivage sufokien",
+   "travel": ""
+  },
+  {
+   "id": 88,
+   "nom": "Rives iridescentes",
+   "travel": ""
+  },
+  {
+   "id": 89,
+   "nom": "Rivière Kawaii",
+   "travel": ""
+  },
+  {
+   "id": 90,
+   "nom": "Routes Rocailleuses",
+   "travel": ""
+  },
+  {
+   "id": 91,
+   "nom": "Sanctuaire des Dragoeufs",
+   "travel": ""
+  },
+  {
+   "id": 92,
+   "nom": "Souterrains d'Astrub",
+   "travel": ""
+  },
+  {
+   "id": 93,
+   "nom": "Souterrains des Dragoeufs",
+   "travel": ""
+  },
+  {
+   "id": 94,
+   "nom": "Souterrains du Château d'Amakna",
+   "travel": ""
+  },
+  {
+   "id": 95,
+   "nom": "Sufokia",
+   "travel": ""
+  },
+  {
+   "id": 96,
+   "nom": "Tainéla",
+   "travel": ""
+  },
+  {
+   "id": 97,
+   "nom": "Terrdala",
+   "travel": ""
+  },
+  {
+   "id": 98,
+   "nom": "Territoire des Bandits",
+   "travel": ""
+  },
+  {
+   "id": 99,
+   "nom": "Territoire des Dragodindes Sauvages",
+   "travel": ""
+  },
+  {
+   "id": 100,
+   "nom": "Territoire des Porcos",
+   "travel": ""
+  },
+  {
+   "id": 101,
+   "nom": "Tourbière nauséabonde",
+   "travel": ""
+  },
+  {
+   "id": 102,
+   "nom": "Tourbière sans fond",
+   "travel": ""
+  },
+  {
+   "id": 103,
+   "nom": "Tronc de l'arbre Hakam",
+   "travel": ""
+  },
+  {
+   "id": 104,
+   "nom": "Vallée de la Morh'Kitu",
+   "travel": ""
+  },
+  {
+   "id": 105,
+   "nom": "Village d'Amakna",
+   "travel": ""
+  },
+  {
+   "id": 106,
+   "nom": "Village de la Canopée",
+   "travel": ""
+  },
+  {
+   "id": 107,
+   "nom": "Village des Bworks",
+   "travel": ""
+  },
+  {
+   "id": 108,
+   "nom": "Village des Dopeuls",
+   "travel": ""
+  },
+  {
+   "id": 109,
+   "nom": "Village des Dragoeufs",
+   "travel": ""
+  },
+  {
+   "id": 110,
+   "nom": "Village des Kanigs",
+   "travel": ""
+  },
+  {
+   "id": 111,
+   "nom": "Village des Zoths",
+   "travel": ""
+  },
+  {
+   "id": 35,
+   "nom": "Égouts d'Astrub",
+   "travel": ""
+  },
+  {
+   "id": 47,
+   "nom": "Île de la Cawotte",
+   "travel": ""
+  },
+  {
+   "id": 48,
+   "nom": "Île des naufragés",
+   "travel": ""
+  },
+  {
+   "id": 49,
+   "nom": "Île du Minotoror",
+   "travel": ""
+  },
+  {
+   "id": 51,
+   "nom": "Îlot de Waldo",
+   "travel": ""
+  },
+  {
+   "id": 50,
+   "nom": "Îlot de la Couronne",
+   "travel": ""
+  },
+  {
+   "id": 52,
+   "nom": "Îlot des Tombeaux",
+   "travel": ""
+  }
+ ],
+ "pierres": [
+  {
+   "id": 1,
+   "nom": "Petite pierre d'âme",
+   "lvl_max": 50
+  },
+  {
+   "id": 2,
+   "nom": "Moyenne pierre d'âme",
+   "lvl_max": 100
+  },
+  {
+   "id": 3,
+   "nom": "Grande pierre d'âme",
+   "lvl_max": 150
+  },
+  {
+   "id": 4,
+   "nom": "Énorme pierre d'âme",
+   "lvl_max": 190
+  }
+ ]
+}

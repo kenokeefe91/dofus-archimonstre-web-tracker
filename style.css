@@ -1,0 +1,74 @@
+  :root {
+    --fond: #1b1e27;
+    --panneau: #262a38;
+    --texte: #e8e6df;
+    --accent: #d4a94e;
+    --ok: #3f7d4e;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    background: var(--fond);
+    color: var(--texte);
+  }
+  header {
+    position: sticky;
+    top: 0;
+    background: var(--panneau);
+    padding: 12px 20px;
+    border-bottom: 2px solid var(--accent);
+  }
+  h1 { margin: 0 0 6px; font-size: 20px; color: var(--accent); }
+  #stats { font-size: 14px; margin-bottom: 6px; }
+  .progress {
+    height: 8px;
+    background: #11131a;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  #progress-bar {
+    height: 100%;
+    width: 0;
+    background: var(--ok);
+    transition: width 0.2s;
+  }
+  #filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 12px 20px;
+    background: var(--panneau);
+    position: sticky;
+    top: 86px;
+    border-bottom: 1px solid #3a3f52;
+  }
+  #filters input[type="search"] { flex: 1 1 220px; }
+  #filters select, #filters input[type="search"], #filters button {
+    background: var(--fond);
+    color: var(--texte);
+    border: 1px solid #3a3f52;
+    border-radius: 4px;
+    padding: 6px 8px;
+  }
+  #filters button { cursor: pointer; border-color: var(--accent); color: var(--accent); }
+  #compteur { font-size: 12px; opacity: 0.7; align-self: center; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  th, td {
+    text-align: left;
+    padding: 6px 10px;
+    border-bottom: 1px solid #2c3040;
+    vertical-align: top;
+  }
+  th {
+    position: sticky;
+    top: 140px;
+    background: var(--panneau);
+    color: var(--accent);
+  }
+  tr.capture-ok td { background: rgba(63, 125, 78, 0.18); }
+  td input[type="checkbox"] { width: 16px; height: 16px; cursor: pointer; }
